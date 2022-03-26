@@ -15,3 +15,7 @@ This can lead to rounding errors.
                                          myDecimal should have a decimal point
                                          
                                                     ANSWER
+                                          const ourDecimal = 5.7;
+
+                                          // Only change code below this line
+const myDecimal = 6.3
