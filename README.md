@@ -9,4 +9,4 @@ Note: Not all real numbers can accurately be represented in floating point.
 This can lead to rounding errors.
 
 
-
+Create a variable myDecimal and give it a decimal value with a fractional part (e.g. 5.7).
