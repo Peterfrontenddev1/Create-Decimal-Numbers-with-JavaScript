@@ -18,4 +18,4 @@ This can lead to rounding errors.
                                           const ourDecimal = 5.7;
 
                                           // Only change code below this line
-const myDecimal = 6.3
+                                          const myDecimal = 6.3
